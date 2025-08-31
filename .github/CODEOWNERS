@@ -27,4 +27,4 @@
 /.github/workflows/jenkins-security-scan.yml @avisangle
 /.github/dependabot.yml @avisangle
 
-* @jenkinsci/jenkins-chatbot-developers
+* @jenkinsci/jenkins-chatbot-plugin-developers
