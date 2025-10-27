@@ -102,7 +102,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>junit</artifactId>
-            <version>1.59</version>
+            <version>1372.vfea_f21efa_b_26</version>
             <scope>test</scope>
         </dependency>
         <dependency>
